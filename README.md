@@ -23,3 +23,34 @@ City : navsari
 
 ==============================
 ```
+## Project 2: Simple Calculator
+
+### Description
+This program takes two numbers as input and performs basic arithmetic operations.
+
+### Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+### Skills Used
+- Variables
+- Input and Output
+- Arithmetic Operators
+
+### Sample Output
+
+```text
+Enter first number: 10
+Enter second number: 5
+
+===== CALCULATOR RESULTS =====
+
+Addition       : 15.0
+Subtraction    : 5.0
+Multiplication : 50.0
+Division       : 2.0
+
+==============================
+```
