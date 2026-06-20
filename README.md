@@ -54,3 +54,28 @@ Division       : 2.0
 
 ==============================
 ```
+## Project 3: Grade Checker
+
+### Description
+This program takes marks as input and displays the corresponding grade.
+
+### Features
+- Grade A (90 and above)
+- Grade B (70–89)
+- Grade C (50–69)
+- Fail (Below 50)
+
+### Skills Used
+- Input and Output
+- Comparison Operators
+- Conditional Statements (if, elif, else)
+
+### Sample Output
+
+```text
+Enter your marks: 75
+
+===== GRADE REPORT =====
+Grade: B
+========================
+```
