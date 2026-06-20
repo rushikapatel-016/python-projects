@@ -79,3 +79,27 @@ Enter your marks: 75
 Grade: B
 ========================
 ```
+## Project 4: Multiplication Table Generator
+
+### Description
+Generates the multiplication table of a number entered by the user.
+
+### Features
+- Takes a number as input
+- Displays multiplication table from 1 to 10
+
+### Skills Used
+- Input and Output
+- Loops (for loop)
+- Arithmetic Operators
+
+### Sample Output
+
+```text
+Enter a number: 7
+
+7 x 1 = 7
+7 x 2 = 14
+...
+7 x 10 = 70
+```
