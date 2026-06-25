@@ -11,4 +11,4 @@
 - Countdown Timer
 - Sum of Numbers
 - Number Guessing Game
-- To-Do Lists
+- To-Do List
