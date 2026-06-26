@@ -13,3 +13,4 @@
 - Number Guessing Game
 - To-Do List
 - Expense Tracker
+- diary
